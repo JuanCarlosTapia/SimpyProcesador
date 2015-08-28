@@ -1,3 +1,8 @@
+#Universidad del Valle de Guatemala
+#Hoja de trabajo 5
+#Juan Carlos Tapia 14133
+#Leonel Guillen 14451
+
 from SimPy.Simulation import *
 from random import uniform
 
